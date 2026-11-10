@@ -1,0 +1,6 @@
+.git
+tmp
+obj
+ft_ping
+__pycache__
+*.pyc
