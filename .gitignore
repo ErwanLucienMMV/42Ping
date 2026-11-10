@@ -1,0 +1,5 @@
+/ft_ping
+/obj/
+/tmp/
+/__pycache__/
+*.pyc
